@@ -1,2 +1,0 @@
-# hypertrophy-lab-privacy
-hypertrophylab
